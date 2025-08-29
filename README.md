@@ -1,1 +1,1 @@
-# atividade-ts-basico
+# Atividade TypeScript básico
